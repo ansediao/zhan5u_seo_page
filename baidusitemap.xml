@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://www.zhan5u.com/article18.html</loc>
-    <lastmod>2016-11-08T08:49:31.734Z</lastmod>
+    <lastmod>2016-11-08T08:55:49.206Z</lastmod>
     <data>
         <display>
         <title>WordPress如何设置一个符合SEO要求的标题 - WordPress 网站SEO</title>
@@ -17,6 +17,26 @@
            
              
               <breadCrumb title="WordPressSEO" url="http://www.zhan5u.com/categories/WordPressSEO/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhan5u.com/article1.html</loc>
+    <lastmod>2016-11-08T08:54:35.726Z</lastmod>
+    <data>
+        <display>
+        <title>10大影响网站排名的因素 - WordPress 网站SEO</title>
+        <pubTime>2016-08-21T10:33:00.000Z</pubTime>
+        
+        <tag>免费教程</tag>
+         
+         
+           
+             
+              <breadCrumb title="SEO原理" url="http://www.zhan5u.com/categories/SEO%E5%8E%9F%E7%90%86/"/>
           
         </display>
     </data>
@@ -330,26 +350,6 @@
         <display>
         <title>SEO的机会 - WordPress 网站SEO</title>
         <pubTime>2016-09-05T10:30:00.000Z</pubTime>
-        
-        <tag>免费教程</tag>
-         
-         
-           
-             
-              <breadCrumb title="SEO原理" url="http://www.zhan5u.com/categories/SEO%E5%8E%9F%E7%90%86/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.zhan5u.com/article1.html</loc>
-    <lastmod>2016-11-04T02:20:40.380Z</lastmod>
-    <data>
-        <display>
-        <title>10大影响网站排名的因素 - WordPress 网站SEO</title>
-        <pubTime>2016-08-21T10:33:00.000Z</pubTime>
         
         <tag>免费教程</tag>
          

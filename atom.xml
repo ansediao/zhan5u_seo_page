@@ -50,23 +50,26 @@
     <link href="http://www.zhan5u.com/article18.html"/>
     <id>http://www.zhan5u.com/article18.html</id>
     <published>2016-09-05T10:30:00.000Z</published>
-    <updated>2016-11-08T08:49:31.734Z</updated>
+    <updated>2016-11-08T08:55:49.206Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://www.gbtags.com/gb/laitu/800x250&amp;text=设置一个符合SEO要求的标题/dd4814/ffffff" alt="设置一个符合SEO要求的标题"></p>
 <blockquote>
 <p>本文介绍如何设置WordPress的标题，以及如何设置一个符合SEO要求的标题。</p>
 </blockquote>
 <a id="more"></a>
-<h2 id="一、操作步骤"><a href="#一、操作步骤" class="headerlink" title="一、操作步骤"></a>一、操作步骤</h2><center><img src="http://img.zhan5u.com/wordpress/seo/design_the_title.gif" alt="设置WordPress的标题"></center>
-
+<h2 id="一、操作步骤"><a href="#一、操作步骤" class="headerlink" title="一、操作步骤"></a>一、操作步骤</h2><p><center><img src="http://img.zhan5u.com/wordpress/seo/design_the_title.gif" alt="设置WordPress的标题"></center></p>
+<p><center>点击图片查看高清大图</center></p>
 <pre><code>1. 登陆后
-2. 常规
-3. 设置
+2. 点击设置
+3. 点击常规
 4. 按图示设置站点标题和副标题
 5. 保存设置
 </code></pre><p>最后得到的结果是</p>
 <p><center><img src="http://img.zhan5u.com/wordpress/seo/the_result_of_the_title.gif" alt="WordPress的标题"></center></p>
-<h2 id="二、注意事项"><a href="#二、注意事项" class="headerlink" title="二、注意事项"></a>二、注意事项</h2><p><a href="/article5.html">标题SEO要求</a></p>
+<p><center>点击图片查看高清大图</center></p>
+<h2 id="二、注意事项"><a href="#二、注意事项" class="headerlink" title="二、注意事项"></a>二、注意事项</h2><ol>
+<li><a href="/article5.html">标题SEO要求</a></li>
+</ol>
 ]]></content>
     
     <summary type="html">
@@ -542,7 +545,7 @@
     <link href="http://www.zhan5u.com/article1.html"/>
     <id>http://www.zhan5u.com/article1.html</id>
     <published>2016-08-21T10:33:00.000Z</published>
-    <updated>2016-11-04T02:20:40.380Z</updated>
+    <updated>2016-11-08T08:54:35.726Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>根据多年的经验，总结出这10大影响网站排名的因素。虽然百度排名规则一直在变，但这10个因素，一直没有变。</p>
@@ -550,8 +553,7 @@
 <a id="more"></a>
 <h2 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h2><ol>
 <li><a href="http://www.zhan5u.com/wordpress/seo/%E4%BB%8ESEO%E8%A7%92%E5%BA%A6%E8%B0%88%E5%A6%82%E4%BD%95%E7%A1%AE%E5%AE%9A%E7%BD%91%E7%AB%99%E7%9A%84%E6%A0%87%E9%A2%98%20-%20WordPress%20%E7%BD%91%E7%AB%99SEO.html">从SEO角度谈如何确定网站的标题</a></li>
-</ol>
-<h2 id="二、链接形式"><a href="#二、链接形式" class="headerlink" title="二、链接形式"></a>二、链接形式</h2><ol>
+<li><a href="/article18.html">设置一个符合SEO要求的标题</a><h2 id="二、链接形式"><a href="#二、链接形式" class="headerlink" title="二、链接形式"></a>二、链接形式</h2></li>
 <li><a href="http://www.zhan5u.com/wordpress/seo/用什么样的链接做关键词能取得好的排名 - WordPress 网站SEO.html">用什么样的链接做关键词能取得好的排名</a></li>
 </ol>
 <h2 id="三、主站权重"><a href="#三、主站权重" class="headerlink" title="三、主站权重"></a>三、主站权重</h2><ol>
