@@ -46,35 +46,39 @@
   </entry>
   
   <entry>
-    <title>站群和群战的区别 - WordPress 网站SEO</title>
-    <link href="http://www.zhan5u.com/article12.html"/>
-    <id>http://www.zhan5u.com/article12.html</id>
+    <title>WordPress如何设置一个符合SEO要求的标题 - WordPress 网站SEO</title>
+    <link href="http://www.zhan5u.com/article18.html"/>
+    <id>http://www.zhan5u.com/article18.html</id>
     <published>2016-09-05T10:30:00.000Z</published>
-    <updated>2016-11-04T02:22:36.568Z</updated>
+    <updated>2016-11-08T08:49:31.734Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://img.zhan5u.com/wordpress/seo/zhanqunhequnzhan.gif" alt="站群和群战"></p>
+    <content type="html"><![CDATA[<p><img src="http://www.gbtags.com/gb/laitu/800x250&amp;text=设置一个符合SEO要求的标题/dd4814/ffffff" alt="设置一个符合SEO要求的标题"></p>
 <blockquote>
-<p>同样是要建立很多网站，站群和群战有哪些区别呢。</p>
+<p>本文介绍如何设置WordPress的标题，以及如何设置一个符合SEO要求的标题。</p>
 </blockquote>
 <a id="more"></a>
-<h2 id="一、质量"><a href="#一、质量" class="headerlink" title="一、质量"></a>一、质量</h2><pre><code>1. 站群属于垃圾站。
-2. 群战的每一个站点都是一个独立的主题。
-</code></pre><h2 id="二、工具"><a href="#二、工具" class="headerlink" title="二、工具"></a>二、工具</h2><pre><code>1. 站群一般使用工具批量建站。
-2. 群战一般使用人工优化。
-</code></pre><h2 id="三、效果"><a href="#三、效果" class="headerlink" title="三、效果"></a>三、效果</h2><pre><code>1. 站群一般过不了多久就会被搜索引擎识别和屏蔽。
-2. 群战只会越来越好。
-</code></pre>]]></content>
+<h2 id="一、操作步骤"><a href="#一、操作步骤" class="headerlink" title="一、操作步骤"></a>一、操作步骤</h2><center><img src="http://img.zhan5u.com/wordpress/seo/design_the_title.gif" alt="设置WordPress的标题"></center>
+
+<pre><code>1. 登陆后
+2. 常规
+3. 设置
+4. 按图示设置站点标题和副标题
+5. 保存设置
+</code></pre><p>最后得到的结果是</p>
+<p><center><img src="http://img.zhan5u.com/wordpress/seo/the_result_of_the_title.gif" alt="WordPress的标题"></center></p>
+<h2 id="二、注意事项"><a href="#二、注意事项" class="headerlink" title="二、注意事项"></a>二、注意事项</h2><p><a href="/article5.html">标题SEO要求</a></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://img.zhan5u.com/wordpress/seo/zhanqunhequnzhan.gif&quot; alt=&quot;站群和群战&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://www.gbtags.com/gb/laitu/800x250&amp;amp;text=设置一个符合SEO要求的标题/dd4814/ffffff&quot; alt=&quot;设置一个符合SEO要求的标题&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;同样是要建立很多网站，站群和群战有哪些区别呢。&lt;/p&gt;
+&lt;p&gt;本文介绍如何设置WordPress的标题，以及如何设置一个符合SEO要求的标题。&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
     
-      <category term="SEO原理" scheme="http://www.zhan5u.com/categories/SEO%E5%8E%9F%E7%90%86/"/>
+      <category term="WordPressSEO" scheme="http://www.zhan5u.com/categories/WordPressSEO/"/>
     
     
       <category term="免费教程" scheme="http://www.zhan5u.com/tags/%E5%85%8D%E8%B4%B9%E6%95%99%E7%A8%8B/"/>
@@ -100,6 +104,42 @@
       &lt;p&gt;&lt;img src=&quot;http://img.zhan5u.com/wordpress/seo/seojihui.gif&quot; alt=&quot;SEO的机会&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;除开百度的广告，百度自己的产品，B2B平台，还有多少位置或机会留给SEO呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="SEO原理" scheme="http://www.zhan5u.com/categories/SEO%E5%8E%9F%E7%90%86/"/>
+    
+    
+      <category term="免费教程" scheme="http://www.zhan5u.com/tags/%E5%85%8D%E8%B4%B9%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>站群和群战的区别 - WordPress 网站SEO</title>
+    <link href="http://www.zhan5u.com/article12.html"/>
+    <id>http://www.zhan5u.com/article12.html</id>
+    <published>2016-09-05T10:30:00.000Z</published>
+    <updated>2016-11-04T02:22:36.568Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://img.zhan5u.com/wordpress/seo/zhanqunhequnzhan.gif" alt="站群和群战"></p>
+<blockquote>
+<p>同样是要建立很多网站，站群和群战有哪些区别呢。</p>
+</blockquote>
+<a id="more"></a>
+<h2 id="一、质量"><a href="#一、质量" class="headerlink" title="一、质量"></a>一、质量</h2><pre><code>1. 站群属于垃圾站。
+2. 群战的每一个站点都是一个独立的主题。
+</code></pre><h2 id="二、工具"><a href="#二、工具" class="headerlink" title="二、工具"></a>二、工具</h2><pre><code>1. 站群一般使用工具批量建站。
+2. 群战一般使用人工优化。
+</code></pre><h2 id="三、效果"><a href="#三、效果" class="headerlink" title="三、效果"></a>三、效果</h2><pre><code>1. 站群一般过不了多久就会被搜索引擎识别和屏蔽。
+2. 群战只会越来越好。
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://img.zhan5u.com/wordpress/seo/zhanqunhequnzhan.gif&quot; alt=&quot;站群和群战&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;同样是要建立很多网站，站群和群战有哪些区别呢。&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
@@ -633,41 +673,6 @@
     
     
       <category term="收费资源" scheme="http://www.zhan5u.com/tags/%E6%94%B6%E8%B4%B9%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WordPress如何设置一个符合SEO要求的标题 - WordPress 网站SEO</title>
-    <link href="http://www.zhan5u.com/article18.html"/>
-    <id>http://www.zhan5u.com/article18.html</id>
-    <published>2016-08-20T10:30:00.000Z</published>
-    <updated>2016-11-08T08:36:40.806Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://www.gbtags.com/gb/laitu/800x250&amp;text=如何设置一个符合SEO要求的标题/dd4814/ffffff" alt="如何设置一个符合SEO要求的标题"></p>
-<blockquote>
-<p>本文介绍如何设置WordPress的标题，以及如何设置一个符合SEO要求的标题。</p>
-</blockquote>
-<a id="more"></a>
-<h2 id="一、操作步骤"><a href="#一、操作步骤" class="headerlink" title="一、操作步骤"></a>一、操作步骤</h2><center><img src="http://img.zhan5u.com/wordpress/seo/design_the_title.gif" alt="设置WordPress的标题"></center>
-
-<p><strong> 1.登陆后台 </strong><br><strong> 2.常规 </strong><br><strong> 3.设置 </strong><br><strong> 4.按图示设置站点标题和副标题 </strong><br><strong> 5.保存设置 </strong></p>
-<p>最后得到的结果是</p>
-<p><center><img src="http://img.zhan5u.com/wordpress/seo/the_result_of_the_title.gif" alt="WordPress的标题"></center></p>
-<h2 id="二、注意事项"><a href="#二、注意事项" class="headerlink" title="二、注意事项"></a>二、注意事项</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://www.gbtags.com/gb/laitu/800x250&amp;amp;text=如何设置一个符合SEO要求的标题/dd4814/ffffff&quot; alt=&quot;如何设置一个符合SEO要求的标题&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本文介绍如何设置WordPress的标题，以及如何设置一个符合SEO要求的标题。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="WordPressSEO" scheme="http://www.zhan5u.com/categories/WordPressSEO/"/>
-    
-    
-      <category term="免费教程" scheme="http://www.zhan5u.com/tags/%E5%85%8D%E8%B4%B9%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
