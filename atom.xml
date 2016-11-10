@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.zhan5u.com/"/>
-  <updated>2016-11-04T02:23:17.412Z</updated>
+  <updated>2016-11-10T01:55:36.120Z</updated>
   <id>http://www.zhan5u.com/</id>
   
   <author>
@@ -14,6 +14,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么是优秀的页面设计</title>
+    <link href="http://www.zhan5u.com/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BC%98%E7%A7%80%E7%9A%84%E9%A1%B5%E9%9D%A2%E8%AE%BE%E8%AE%A1.html"/>
+    <id>http://www.zhan5u.com/什么是优秀的页面设计.html</id>
+    <published>2016-11-10T01:49:58.000Z</published>
+    <updated>2016-11-10T01:55:36.120Z</updated>
+    
+    <content type="html"><![CDATA[<ol>
+<li>Make my changes<ol>
+<li>Fix bug</li>
+<li>Improve formatting<ul>
+<li>Make the headings bigger</li>
+</ul>
+</li>
+</ol>
+</li>
+<li>Push my commits to GitHub</li>
+<li>Open a pull request<ul>
+<li>Describe my changes</li>
+<li>Mention all the members of my team<ul>
+<li>Ask for feedback</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;Make my changes&lt;ol&gt;
+&lt;li&gt;Fix bug&lt;/li&gt;
+&lt;li&gt;Improve formatting&lt;ul&gt;
+&lt;li&gt;Make the headings bigger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Push 
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>营销电话放哪里效果最好 - WordPress 网站SEO</title>
