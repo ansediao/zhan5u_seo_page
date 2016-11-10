@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.zhan5u.com/"/>
-  <updated>2016-11-10T02:45:04.996Z</updated>
+  <updated>2016-11-04T02:23:17.412Z</updated>
   <id>http://www.zhan5u.com/</id>
   
   <author>
@@ -14,50 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>什么是优秀的页面设计</title>
-    <link href="http://www.zhan5u.com/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BC%98%E7%A7%80%E7%9A%84%E9%A1%B5%E9%9D%A2%E8%AE%BE%E8%AE%A1.html"/>
-    <id>http://www.zhan5u.com/什么是优秀的页面设计.html</id>
-    <published>2016-11-10T01:49:58.000Z</published>
-    <updated>2016-11-10T02:45:04.996Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong> 一. Make my changes </strong></p>
-<ol>
-<li>Fix bug</li>
-<li>Improve formatting<ul>
-<li>Make the headings bigger</li>
-</ul>
-<ol>
-<li>Push my commits to GitHub</li>
-<li>Open a pull request</li>
-</ol>
-</li>
-</ol>
-<ul>
-<li>Describe my changes</li>
-<li>Mention all the members of my team<ul>
-<li>Ask for feedback</li>
-</ul>
-</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt; 一. Make my changes &lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Fix bug&lt;/li&gt;
-&lt;li&gt;Improve formatting&lt;ul&gt;
-&lt;li&gt;Make the headings bigger&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>营销电话放哪里效果最好 - WordPress 网站SEO</title>
@@ -133,36 +89,6 @@
   </entry>
   
   <entry>
-    <title>SEO的机会 - WordPress 网站SEO</title>
-    <link href="http://www.zhan5u.com/article2.html"/>
-    <id>http://www.zhan5u.com/article2.html</id>
-    <published>2016-09-05T10:30:00.000Z</published>
-    <updated>2016-11-04T02:20:52.564Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://img.zhan5u.com/wordpress/seo/seojihui.gif" alt="SEO的机会"></p>
-<blockquote>
-<p>除开百度的广告，百度自己的产品，B2B平台，还有多少位置或机会留给SEO呢？</p>
-</blockquote>
-<a id="more"></a>
-<h2 id="一、百度竞价广告-4-8个"><a href="#一、百度竞价广告-4-8个" class="headerlink" title="一、百度竞价广告 4-8个"></a>一、百度竞价广告 4-8个</h2><h2 id="二、百度自己的产品-0-4个"><a href="#二、百度自己的产品-0-4个" class="headerlink" title="二、百度自己的产品 0-4个"></a>二、百度自己的产品 0-4个</h2><h2 id="三、B2B平台信息-0-4个"><a href="#三、B2B平台信息-0-4个" class="headerlink" title="三、B2B平台信息 0-4个"></a>三、B2B平台信息 0-4个</h2><h2 id="四、SEO-2-5个"><a href="#四、SEO-2-5个" class="headerlink" title="四、SEO 2-5个"></a>四、SEO 2-5个</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://img.zhan5u.com/wordpress/seo/seojihui.gif&quot; alt=&quot;SEO的机会&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;除开百度的广告，百度自己的产品，B2B平台，还有多少位置或机会留给SEO呢？&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="SEO原理" scheme="http://www.zhan5u.com/categories/SEO%E5%8E%9F%E7%90%86/"/>
-    
-    
-      <category term="免费教程" scheme="http://www.zhan5u.com/tags/%E5%85%8D%E8%B4%B9%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>站群和群战的区别 - WordPress 网站SEO</title>
     <link href="http://www.zhan5u.com/article12.html"/>
     <id>http://www.zhan5u.com/article12.html</id>
@@ -187,6 +113,36 @@
       &lt;p&gt;&lt;img src=&quot;http://img.zhan5u.com/wordpress/seo/zhanqunhequnzhan.gif&quot; alt=&quot;站群和群战&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;同样是要建立很多网站，站群和群战有哪些区别呢。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="SEO原理" scheme="http://www.zhan5u.com/categories/SEO%E5%8E%9F%E7%90%86/"/>
+    
+    
+      <category term="免费教程" scheme="http://www.zhan5u.com/tags/%E5%85%8D%E8%B4%B9%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SEO的机会 - WordPress 网站SEO</title>
+    <link href="http://www.zhan5u.com/article2.html"/>
+    <id>http://www.zhan5u.com/article2.html</id>
+    <published>2016-09-05T10:30:00.000Z</published>
+    <updated>2016-11-04T02:20:52.564Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://img.zhan5u.com/wordpress/seo/seojihui.gif" alt="SEO的机会"></p>
+<blockquote>
+<p>除开百度的广告，百度自己的产品，B2B平台，还有多少位置或机会留给SEO呢？</p>
+</blockquote>
+<a id="more"></a>
+<h2 id="一、百度竞价广告-4-8个"><a href="#一、百度竞价广告-4-8个" class="headerlink" title="一、百度竞价广告 4-8个"></a>一、百度竞价广告 4-8个</h2><h2 id="二、百度自己的产品-0-4个"><a href="#二、百度自己的产品-0-4个" class="headerlink" title="二、百度自己的产品 0-4个"></a>二、百度自己的产品 0-4个</h2><h2 id="三、B2B平台信息-0-4个"><a href="#三、B2B平台信息-0-4个" class="headerlink" title="三、B2B平台信息 0-4个"></a>三、B2B平台信息 0-4个</h2><h2 id="四、SEO-2-5个"><a href="#四、SEO-2-5个" class="headerlink" title="四、SEO 2-5个"></a>四、SEO 2-5个</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://img.zhan5u.com/wordpress/seo/seojihui.gif&quot; alt=&quot;SEO的机会&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;除开百度的广告，百度自己的产品，B2B平台，还有多少位置或机会留给SEO呢？&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
